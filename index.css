@@ -1,5 +1,13 @@
-body{
-    {
-        width: 30px; height: 10px;
-    }
+#conteudo { 
+    width: 900px;
+    height: 900px;
+    background-color:#5e0440;
+    margin: 0 auto;
+}
+
+#cabecalho {
+    width: 900px;
+    height: 100px;
+    background-color:#5e0440;
+    margin: 0 auto;
 }
